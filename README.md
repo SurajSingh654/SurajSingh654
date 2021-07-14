@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj
 - 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning on web development and c language
+- 🌱 I’m currently learning web development 
 - Contact me--> surajsinghj654@gmail.com 
 
 <!---
